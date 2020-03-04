@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71953320761",
+    "firebase_url": "https://app-gps-2ecbb.firebaseio.com",
+    "project_id": "app-gps-2ecbb",
+    "storage_bucket": "app-gps-2ecbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71953320761:android:389cc92210453df4c036e8",
+        "android_client_info": {
+          "package_name": "com.example.promoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71953320761-77bs0h4fl57sdb7ht48bm6t8v3qshq3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_isKSF8ZzSncbvqUTp_387hYxccF7blg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71953320761-77bs0h4fl57sdb7ht48bm6t8v3qshq3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
